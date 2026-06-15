@@ -1,6 +1,6 @@
 # Caroline Bahia
 
-### Software Engineering Student @ 42 São Paulo
+### Software Engineering Student @ 42 São Paulo | Systems & Graphics Programming
 
 Focused on Systems Programming, Graphics Programming, Procedural Generation and Interactive Systems.
 
@@ -37,7 +37,7 @@ My long-term interests include game engines, graphics programming, procedural ge
 | C++ | Git | Graphics Programming |
 | C# | Bash | Rendering Pipelines |
 | Shell | VS Code | Godot |
-| SQL | Unity | Engine Architecture |
+| Makefile | Unity | Engine Architecture |
 
 ---
 
@@ -111,6 +111,21 @@ Concurrency simulation using threads and mutexes.
 
 ---
 
+## ⚙️ CPP Modules
+
+Object-Oriented Programming with C++.
+
+### Topics Explored
+
+- Classes
+- Inheritance
+- Polymorphism
+- Interfaces
+- Operator Overloading
+- Design Patterns
+
+---
+
 ## 🕹️ so_long
 
 2D game developed in C using MiniLibX.
@@ -125,18 +140,17 @@ Concurrency simulation using threads and mutexes.
 
 ---
 
-## ⚙️ CPP Modules
+## 📡 Minitalk
 
-Object-Oriented Programming with C++.
+Interprocess communication system built using Unix signals.
 
 ### Topics Explored
 
-- Classes
-- Inheritance
-- Polymorphism
-- Interfaces
-- Operator Overloading
-- Design Patterns
+- Unix Signals
+- Client-Server Architecture
+- Interprocess Communication (IPC)
+- Data Encoding
+- Synchronization
 
 ---
 
@@ -169,13 +183,13 @@ I believe strong abstractions are built on a solid understanding of how systems 
 
 ## Current Roadmap
 
-- [ ] ProGen v0.1
 - [ ] Cub3D Final Release
-- [ ] Advanced C++ Modules
-- [ ] Godot Bootcamp
+- [ ] CPP Modules 05 - 09
+- [ ] ProGen v0.1
+- [ ] First Playable Unity Prototype
 - [ ] Advanced Procedural Generation
 - [ ] Runtime Optimization
-- [ ] Original Game Prototype
+- [ ] Technical Art Portfolio
 
 ---
 
