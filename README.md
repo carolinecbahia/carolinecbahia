@@ -1,109 +1,159 @@
-<div align="center">
-
 # Caroline Bahia
 
-### Game Developer in Training @ 42 São Paulo
+### Software Engineering Student @ 42 São Paulo
 
-Former Architect & Urban Planner transitioning into Game Development, Graphics Programming and Procedural Generation.
-
-</div>
+Focused on Systems Programming, Graphics Programming, Procedural Generation and Interactive Systems.
 
 ---
 
 ## About Me
 
-My background in architecture taught me how to design spaces.
+Former Architect & Urban Planner with 11+ years of experience designing and coordinating complex projects.
 
-Today, I apply the same mindset to building systems, environments, and tools for games.
+Today, I apply the same systems-thinking mindset to software engineering, exploring how low-level programming, graphics, simulation, and procedural content generation can be combined to build interactive experiences.
 
-Currently studying low-level programming, computer graphics, game architecture, and procedural generation.
+Through the 42 São Paulo curriculum, I've developed a strong foundation in systems programming, algorithms, memory management, concurrency, Unix environments, and software architecture.
+
+My long-term interests include game engines, graphics programming, procedural generation, technical art, and simulation systems.
 
 ---
 
 ## Current Focus
 
-```txt
-🎮 Game Development
-🧩 Procedural Generation
-🎨 Technical Art
-🖥️ Graphics Programming
-⚙️ Engine Architecture
-```
+- ⚙️ Systems Programming
+- 🎮 Game Development
+- 🖥️ Graphics Programming
+- 🧩 Procedural Generation
+- 🎨 Technical Art
+- 🏗️ Engine Architecture
 
 ---
 
 ## Technologies
 
-| Languages | Engines & Tools | Currently Learning    |
-| --------- | --------------- | --------------------- |
-| C         | Unity           | Procedural Generation |
-| C++       | Git             | Technical Art         |
-| C#        | Linux           | Rendering Pipelines   |
-| Shell     | VS Code         | Godot                 |
+| Languages | Systems & Tools | Currently Learning |
+|------------|------------|------------|
+| C | Linux | Procedural Generation |
+| C++ | Git | Graphics Programming |
+| C# | Bash | Rendering Pipelines |
+| Shell | VS Code | Godot |
+| SQL | Unity | Engine Architecture |
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### 🎮 ProGen
+## 🧩 ProGen
 
 Procedural environment generation system built with Unity and C#.
 
-```txt
+```text
 Generation
-   ↓
+    ↓
 Validation (Flood Fill)
-   ↓
-Regen
-   ↓
+    ↓
+Regeneration
+    ↓
 Optimized Instantiation
 ```
 
-Focus Areas:
+### Focus Areas
 
-* Procedural Generation
-* Technical Art Pipelines
-* Environment Systems
-* Runtime Optimization
+- Procedural Generation
+- Technical Art Pipelines
+- Environment Systems
+- Runtime Optimization
+- Tool Development
 
 ---
 
-### 🕹️ cub3D
+## 🖥️ cub3D
 
 Raycasting engine inspired by Wolfenstein 3D.
 
-Topics explored:
+### Topics Explored
 
-* Rendering Pipelines
-* Texture Mapping
-* Raycasting
-* Graphics Programming
-
----
-
-### 🏰 so_long
-
-2D game developed in C.
-
-Topics explored:
-
-* Game Loops
-* Collision Detection
-* Event Handling
-* Sprite Rendering
+- Raycasting
+- Rendering Pipelines
+- Texture Mapping
+- Camera Systems
+- Graphics Programming
+- Performance Optimization
 
 ---
 
-### ⚙️ CPP Modules
+## 🐚 Minishell
+
+Unix shell implementation written in C.
+
+### Topics Explored
+
+- Parsing
+- Process Management
+- Pipes
+- Redirections
+- Signals
+- Unix Internals
+
+---
+
+## 🧵 Philosophers
+
+Concurrency simulation using threads and mutexes.
+
+### Topics Explored
+
+- Multithreading
+- Synchronization
+- Race Conditions
+- Mutexes
+- Deadlock Prevention
+
+---
+
+## 🕹️ so_long
+
+2D game developed in C using MiniLibX.
+
+### Topics Explored
+
+- Game Loops
+- Collision Detection
+- Event Handling
+- Sprite Rendering
+- Resource Management
+
+---
+
+## ⚙️ CPP Modules
 
 Object-Oriented Programming with C++.
 
-Topics explored:
+### Topics Explored
 
-* Inheritance
-* Polymorphism
-* Interfaces
-* Design Patterns
+- Classes
+- Inheritance
+- Polymorphism
+- Interfaces
+- Operator Overloading
+- Design Patterns
+
+---
+
+## 📚 42 Core Projects
+
+Completed:
+
+- Libft
+- ft_printf
+- get_next_line
+- Born2beroot
+- Minitalk
+- Push_swap
+- So_long
+- Philosophers
+- Minishell
+- CPP Modules
 
 ---
 
@@ -111,18 +161,21 @@ Topics explored:
 
 I enjoy understanding systems from first principles.
 
-Whether studying memory management in C, rendering pipelines, or procedural generation in Unity, my goal is to understand both the implementation and the underlying technical constraints.
+Whether studying memory management in C, concurrency, Unix internals, rendering pipelines, or procedural generation, my goal is to understand both the implementation and the underlying technical constraints.
+
+I believe strong abstractions are built on a solid understanding of how systems work underneath.
 
 ---
 
 ## Current Roadmap
 
-* [ ] ProGen v0.1
-* [ ] First Unity Portfolio Project
-* [ ] Godot Bootcamp
-* [ ] Advanced Procedural Generation
-* [ ] Runtime Optimization
-* [ ] Original Game Prototype
+- [ ] ProGen v0.1
+- [ ] Cub3D Final Release
+- [ ] Advanced C++ Modules
+- [ ] Godot Bootcamp
+- [ ] Advanced Procedural Generation
+- [ ] Runtime Optimization
+- [ ] Original Game Prototype
 
 ---
 
