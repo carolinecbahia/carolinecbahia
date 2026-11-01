@@ -19,7 +19,7 @@ My work spans **C and C++ systems programming**, **C# tools for architectural wo
 | Graphics and games | Raycasting, texture mapping, and 2D rendering in C; procedural generation with Unity and C# |
 | Object-oriented programming | C++, classes, inheritance, polymorphism, and operator overloading |
 | Web applications | TypeScript, React, Next.js, and Supabase |
-| Development tools | Linux, Git, Bash, Make, Visual Studio and VS Code |
+| Development tools | Linux, Git, Bash, Make, and VS Code |
 
 ## Selected Projects
 
@@ -39,25 +39,25 @@ Explores generation, flood-fill validation, regeneration, and optimized instanti
 
 **Status:** Active development · No public release yet
 
-### cub3D — Raycasting Engine
+### [cub3D](https://github.com/carolinecbahia/cub3D) — Raycasting Engine
 
-A **C** raycasting project inspired by Wolfenstein 3D, completed at 42 São Paulo.
+A **C** raycasting project inspired by Wolfenstein 3D, developed in a team of two and completed at 42 São Paulo.
 
 Explores the relationship between a 2D map and a first-person view through raycasting, texture mapping, camera movement, and collision handling.
 
-### Minishell — Unix Shell
+### [Minishell](https://github.com/rodrigo-americo/Minishell) — Unix Shell
 
-A shell implementation written in **C**, covering command parsing, process execution, pipes, redirections, and signal handling.
+A collaborative project developed in a team of two: a shell implementation written in **C**, covering command parsing, process execution, pipes, redirections, and signal handling.
 
-### Philosophers — Concurrency Simulation
+### [Philosophers](https://github.com/carolinecbahia/philosophers) — Concurrency Simulation
 
 A **C** simulation using POSIX threads and mutexes to explore shared resources, synchronization, race conditions, and deadlock prevention.
 
-### so_long — 2D Game
+### [so_long](https://github.com/carolinecbahia/so_long) — 2D Game
 
 A small **C** game built with MiniLibX, combining map validation, sprite rendering, player input, collision handling, and resource management.
 
-### Minitalk — Signal-Based Communication
+### [Minitalk](https://github.com/carolinecbahia/Minitalk) — Signal-Based Communication
 
 A client-server communication project written in **C**, using Unix signals to encode, transmit, and reconstruct messages.
 
@@ -79,25 +79,33 @@ The project combines a custom content database with timeline APIs and an interfa
 
 ## 42 São Paulo
 
+**Expected Common Core completion: July 2027**
+
 Completed projects include:
 
-- **Foundations:** Libft, ft_printf, and get_next_line
-- **Unix and administration:** Born2beroot, Minitalk, and Minishell
-- **Algorithms and concurrency:** push_swap and Philosophers
-- **Graphics:** so_long and cub3D
-- **C++:** Modules 00–04
+- **Foundations:** [Libft](https://github.com/carolinecbahia/libft), including ft_printf and get_next_line
+- **Unix and administration:** Born2beroot, [Minitalk](https://github.com/carolinecbahia/Minitalk), and [Minishell](https://github.com/rodrigo-americo/Minishell) (team project)
+- **Algorithms and concurrency:** [push_swap](https://github.com/carolinecbahia/push_swap) and [Philosophers](https://github.com/carolinecbahia/philosophers)
+- **Graphics:** [so_long](https://github.com/carolinecbahia/so_long) and [cub3D](https://github.com/carolinecbahia/cub3D)
+- **C++:** [Modules 00–04](https://github.com/carolinecbahia/42-cpp-modules)
 
 **Exam Ranks 02, 03, and 04 passed.**
 
-## What I'm Working Toward
+## Current Focus & Next Steps
 
-- Continue with C++ Modules 05–09
+- Continue the 42 Common Core with C++ Modules 05–09, ft_irc, and Inception
 - Expand ARP's tools for architectural modeling and documentation
 - Develop ProGen v0.1 and a playable Unity prototype
 - Deepen my understanding of rendering and procedural generation
 - Build a portfolio connecting systems programming, graphics, and technical art
 
-Long-term, I'm interested in **game engines, simulation systems, and tools that support creative work**.
+## Long-Term Direction
+
+After completing the Common Core, I intend to pursue the **Graphics & Gaming** specialization at 42.
+
+My long-term interests include **graphics and systems programming, game engine architecture, procedural generation, and AI for graphics and interactive systems**.
+
+I want to explore how simulation, procedural methods, and AI can support world generation, interactive behavior, and creative tools, connecting engine development with technical art.
 
 ## How I Learn
 
