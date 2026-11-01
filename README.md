@@ -1,204 +1,112 @@
 # Caroline Bahia
 
-### Software Engineering Student @ 42 São Paulo | Systems & Graphics Programming
+### Software Engineering Student at 42 São Paulo
+#### Systems Programming · Graphics · Procedural Generation
 
-Focused on Systems Programming, Graphics Programming, Procedural Generation and Interactive Systems.
+I'm a software engineering student with a background in architecture and urban planning, where I spent over 11 years designing and coordinating projects.
 
----
+I now bring that experience to programming: breaking complex problems into smaller systems, working within constraints, and connecting technical decisions to the final experience.
 
-## About Me
+My work spans **C and C++ systems programming**, **C# tools for architectural workflows**, and independent web applications. My main interests are **graphics programming, procedural generation, game development, and tools that support creative work**.
 
-Former Architect & Urban Planner with 11+ years of experience designing and coordinating complex projects.
+## Technical Background
 
-Today, I apply the same systems-thinking mindset to software engineering, exploring how low-level programming, graphics, simulation, and procedural content generation can be combined to build interactive experiences.
+| Area | Experience |
+| --- | --- |
+| Systems programming | C, memory management, processes, pipes, signals, and file descriptors |
+| Concurrency | POSIX threads, mutexes, and synchronization |
+| BIM tools and automation | C#, .NET, Revit API, configurable workflows, and custom interfaces |
+| Graphics and games | Raycasting, texture mapping, and 2D rendering in C; procedural generation with Unity and C# |
+| Object-oriented programming | C++, classes, inheritance, polymorphism, and operator overloading |
+| Web applications | TypeScript, React, Next.js, and Supabase |
+| Development tools | Linux, Git, Bash, Make, Visual Studio and VS Code |
 
-Through the 42 São Paulo curriculum, I've developed a strong foundation in systems programming, algorithms, memory management, concurrency, Unix environments, and software architecture.
+## Selected Projects
 
-My long-term interests include game engines, graphics programming, procedural generation, technical art, and simulation systems.
+### ARP Revit Toolkit — BIM Automation
 
----
+A toolkit under development in **C# using .NET and the Revit API**, built around workflows from my architectural practice.
 
-## Current Focus
+Current work includes configurable electrical component placement, placement and annotation logic, JSON-based presets, and a custom ribbon interface. The project applies domain knowledge to tools that reduce repetitive modeling tasks and support consistent documentation.
 
-- ⚙️ Systems Programming
-- 🎮 Game Development
-- 🖥️ Graphics Programming
-- 🧩 Procedural Generation
-- 🎨 Technical Art
-- 🏗️ Engine Architecture
+**Status:** Private project · Active development
 
----
+### ProGen — Procedural Environment Generation
 
-## Technologies
+A procedural environment generation project built with **Unity and C#**, currently in development.
 
-| Languages | Systems & Tools | Currently Learning |
-|------------|------------|------------|
-| C | Linux | Procedural Generation |
-| C++ | Git | Graphics Programming |
-| C# | Bash | Rendering Pipelines |
-| Shell | VS Code | Godot |
-| Makefile | Unity | Engine Architecture |
+Explores generation, flood-fill validation, regeneration, and optimized instantiation, with an emphasis on reusable environment tools and runtime performance.
 
----
+**Status:** Active development · No public release yet
 
-# Featured Projects
+### cub3D — Raycasting Engine
 
-## 🧩 ProGen
+A **C** raycasting project inspired by Wolfenstein 3D, completed at 42 São Paulo.
 
-Procedural environment generation system built with Unity and C#.
+Explores the relationship between a 2D map and a first-person view through raycasting, texture mapping, camera movement, and collision handling.
 
-```text
-Generation
-    ↓
-Validation (Flood Fill)
-    ↓
-Regeneration
-    ↓
-Optimized Instantiation
-```
+### Minishell — Unix Shell
 
-### Focus Areas
+A shell implementation written in **C**, covering command parsing, process execution, pipes, redirections, and signal handling.
 
-- Procedural Generation
-- Technical Art Pipelines
-- Environment Systems
-- Runtime Optimization
-- Tool Development
+### Philosophers — Concurrency Simulation
 
----
+A **C** simulation using POSIX threads and mutexes to explore shared resources, synchronization, race conditions, and deadlock prevention.
 
-## 🖥️ cub3D
+### so_long — 2D Game
 
-Raycasting engine inspired by Wolfenstein 3D.
+A small **C** game built with MiniLibX, combining map validation, sprite rendering, player input, collision handling, and resource management.
 
-### Topics Explored
+### Minitalk — Signal-Based Communication
 
-- Raycasting
-- Rendering Pipelines
-- Texture Mapping
-- Camera Systems
-- Graphics Programming
-- Performance Optimization
+A client-server communication project written in **C**, using Unix signals to encode, transmit, and reconstruct messages.
 
----
+## Other Independent Projects
 
-## 🐚 Minishell
+Alongside systems and graphics work, I build web applications around personal interests and practical needs. These projects are in development and do not yet have public releases.
 
-Unix shell implementation written in C.
+### TheCardFolio — Trading Card Collection Manager
 
-### Topics Explored
+A web application built with **React, TypeScript, and Supabase** to organize trading card collections.
 
-- Parsing
-- Process Management
-- Pipes
-- Redirections
-- Signals
-- Unix Internals
+Current functionality includes authentication, batch entry, collection filters, and individual and bulk editing, with support for card variants, condition, quantities, and acquisition prices.
 
----
+### Geek vs Nerd — Entertainment Timeline Platform
 
-## 🧵 Philosophers
+A platform under development with **Next.js, TypeScript, and Supabase**, focused on organizing MCU viewing timelines and release information in Brazilian Portuguese.
 
-Concurrency simulation using threads and mutexes.
+The project combines a custom content database with timeline APIs and an interface for exploring viewing orders.
 
-### Topics Explored
+## 42 São Paulo
 
-- Multithreading
-- Synchronization
-- Race Conditions
-- Mutexes
-- Deadlock Prevention
+Completed projects include:
 
----
+- **Foundations:** Libft, ft_printf, and get_next_line
+- **Unix and administration:** Born2beroot, Minitalk, and Minishell
+- **Algorithms and concurrency:** push_swap and Philosophers
+- **Graphics:** so_long and cub3D
+- **C++:** Modules 00–04
 
-## ⚙️ CPP Modules
+**Exam Ranks 02, 03, and 04 passed.**
 
-Object-Oriented Programming with C++.
+## What I'm Working Toward
 
-### Topics Explored
+- Continue with C++ Modules 05–09
+- Expand ARP's tools for architectural modeling and documentation
+- Develop ProGen v0.1 and a playable Unity prototype
+- Deepen my understanding of rendering and procedural generation
+- Build a portfolio connecting systems programming, graphics, and technical art
 
-- Classes
-- Inheritance
-- Polymorphism
-- Interfaces
-- Operator Overloading
-- Design Patterns
+Long-term, I'm interested in **game engines, simulation systems, and tools that support creative work**.
 
----
+## How I Learn
 
-## 🕹️ so_long
+I like to understand systems from first principles: how memory is managed, how processes communicate, how threads share resources, and how data becomes an image on screen.
 
-2D game developed in C using MiniLibX.
-
-### Topics Explored
-
-- Game Loops
-- Collision Detection
-- Event Handling
-- Sprite Rendering
-- Resource Management
-
----
-
-## 📡 Minitalk
-
-Interprocess communication system built using Unix signals.
-
-### Topics Explored
-
-- Unix Signals
-- Client-Server Architecture
-- Interprocess Communication (IPC)
-- Data Encoding
-- Synchronization
-
----
-
-## 📚 42 Core Projects
-
-Completed:
-
-- Libft
-- ft_printf
-- get_next_line
-- Born2beroot
-- Minitalk
-- Push_swap
-- So_long
-- Philosophers
-- Minishell
-- CPP Modules
-
----
-
-## Learning Philosophy
-
-I enjoy understanding systems from first principles.
-
-Whether studying memory management in C, concurrency, Unix internals, rendering pipelines, or procedural generation, my goal is to understand both the implementation and the underlying technical constraints.
-
-I believe strong abstractions are built on a solid understanding of how systems work underneath.
-
----
-
-## Current Roadmap
-
-- [ ] Cub3D Final Release
-- [ ] CPP Modules 05 - 09
-- [ ] ProGen v0.1
-- [ ] First Playable Unity Prototype
-- [ ] Advanced Procedural Generation
-- [ ] Runtime Optimization
-- [ ] Technical Art Portfolio
-
----
+My goal is to build useful abstractions grounded in an understanding of the systems underneath.
 
 ## Connect
 
-📍 São Paulo, Brazil
+São Paulo, Brazil
 
-💼 [LinkedIn](http://www.linkedin.com/in/caroline-b-1691828b)
-
-🏆 [Beecrowd](https://judge.beecrowd.com/pt/profile/1142631)
-
-⚔️ [Codewars](http://www.codewars.com/users/carolinecbahia)
+[LinkedIn](https://www.linkedin.com/in/caroline-b-1691828b) · [Beecrowd](https://judge.beecrowd.com/pt/profile/1142631) · [Codewars](https://www.codewars.com/users/carolinecbahia)
